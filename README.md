@@ -7,4 +7,4 @@ Client: Next.js, TailwindCSS
 
 Server: Node, Express
 
-Server Repo: https://github.com/Philliphick/codecollab-server
+Client Repo: https://github.com/Philliphick/codecollab-client
